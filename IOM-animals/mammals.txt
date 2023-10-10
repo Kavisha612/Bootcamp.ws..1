@@ -17,7 +17,7 @@ stoat, mustela erminea hibernica
 ferret, mustela furo
 irish elk, megaloceros giganteus
 grey seal, halichoerus grypus
-common seal, phoca vitulina
+common seal, phoca vitulinawc 
 human, homo sapiens
 domestic goat, capra hircus
 red-necked wallaby, macropus rufogriseus
